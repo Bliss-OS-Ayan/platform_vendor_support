@@ -13,6 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
 package com.bliss.support.colorpicker;
 
 import android.content.Context;
